@@ -1,0 +1,6 @@
+1. 0x000000ff 0xff00000 255 4278190080
+2. 2 milliamperes
+3. firefox,4096, 2 files
+   commands: cd /etc
+   commands: ls -l firefox/
+   commands: ls -A firefox/ | wc -l
